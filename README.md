@@ -7,7 +7,7 @@
 <!-- ===== 动态 BANNER ===== -->
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=venom&color=0:4C1D95,40:A855F7,100:F472B6&height=230&section=header&text=cpu%26gpu&fontSize=78&fontColor=FFFFFF&fontAlignY=34&desc=Building%20Real%20AI%20Products&descSize=22&descAlignY=56&animation=twinkling"
+    src="https://capsule-render.vercel.app/api?type=venom&color=0:4C1D95,40:A855F7,100:F472B6&height=230&section=header&text=cpu%26gpu&fontSize=78&fontColor=FFFFFF&fontAlignY=34&desc=Building%20Real%20AI%20Products&descSize=22&descAlignY=56&animation=twinkling&v=2"
     alt="cpu&gpu - Building Real AI Products"
   />
 </p>
@@ -143,15 +143,6 @@ SSH 远程粘贴 · 持久化上传
 </td>
 </tr>
 </table>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/CURRENTLY%20BUILDING-A855F7?style=for-the-badge&labelColor=0B0E14" alt="Currently building" />
-</p>
-
-<p align="center">
-  🌫️ Building OpenAI-compatible image generation gateways on Netlify serverless<br />
-  <sub>TypeScript · Netlify AI Gateway · Netlify Blobs — 暂未公开，稳定后再开源</sub>
-</p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4C1D95,50:F472B6,100:A855F7&height=3&section=header" width="100%" alt="divider" />
 
