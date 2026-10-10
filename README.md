@@ -1,181 +1,189 @@
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║  方案 B · MODERN CARD / DUAL THEME  —  cpulxb profile README  ║ -->
-<!-- ║  配色主轴：#7C5CFF / #4C1D95 / #F5F3FF / #111827             ║ -->
+<!-- ║  方案 C · NEON IMPACT  —  cpulxb profile README               ║ -->
+<!-- ║  配色主轴：#A855F7 / #4C1D95 / #F472B6 / #22D3EE / #0B0E14    ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
-<h1 align="center">cpu&amp;gpu</h1>
-
+<!-- ===== 动态 BANNER ===== -->
 <p align="center">
-  <b>AI Full-Stack Engineer</b> · Building Real AI Products
+  <img
+    src="https://capsule-render.vercel.app/api?type=venom&color=0:4C1D95,40:A855F7,100:F472B6&height=230&section=header&text=cpu%26gpu&fontSize=78&fontColor=FFFFFF&fontAlignY=34&desc=Building%20Real%20AI%20Products&descSize=22&descAlignY=56&animation=twinkling"
+    alt="cpu&gpu - Building Real AI Products"
+  />
+</p>
+
+<!-- ===== 打字机副标题 ===== -->
+<p align="center">
+  <a href="https://blog.cpunull.me">
+    <img
+      src="https://readme-typing-svg.demolab.com/?lines=AI+Full-Stack+Engineer;AI+Agent+Systems+Architect;LLM+Product+Engineering;End-to-End+Delivery;Build+reliable+AI+products+with+real+user+value&font=Fira%20Code&weight=600&size=24&duration=3200&pause=800&color=A855F7&center=true&vCenter=true&width=620&height=60"
+      alt="AI Full-Stack Engineer · AI Agent Systems · LLM Product Engineering"
+    />
+  </a>
+</p>
+
+<!-- ===== 霓虹徽章墙 ===== -->
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20AGENT%20SYSTEMS-A855F7?style=for-the-badge&labelColor=0B0E14" alt="AI Agent Systems" />
+  <img src="https://img.shields.io/badge/LLM%20PRODUCT%20ENGINEERING-F472B6?style=for-the-badge&labelColor=0B0E14" alt="LLM Product Engineering" />
+  <img src="https://img.shields.io/badge/END--TO--END%20DELIVERY-22D3EE?style=for-the-badge&labelColor=0B0E14" alt="End-to-End Delivery" />
 </p>
 
 <p align="center">
-  AI Agent Systems &nbsp;·&nbsp; LLM Product Engineering &nbsp;·&nbsp; End-to-End Delivery
+  <a href="https://github.com/cpulxb?tab=followers">
+    <img src="https://img.shields.io/github/followers/cpulxb?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&labelColor=0B0E14&color=A855F7" alt="Followers" />
+  </a>
+  <a href="https://github.com/cpulxb?tab=repositories">
+    <img src="https://img.shields.io/badge/REPOS-29-4C1D95?style=for-the-badge&logo=github&logoColor=white&labelColor=0B0E14" alt="29 repos" />
+  </a>
+  <a href="https://github.com/cpulxb?tab=stars">
+    <img src="https://img.shields.io/badge/STARRED-15-F59E0B?style=for-the-badge&logo=star&logoColor=white&labelColor=0B0E14" alt="15 starred" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=cpulxb&style=for-the-badge&color=F472B6&label=VIEWS" alt="Profile views" />
 </p>
 
 <p align="center">
-  <a href="https://blog.cpunull.me">Blog</a> &nbsp;·&nbsp;
-  <a href="https://blog.csdn.net/2301_79728896">CSDN</a> &nbsp;·&nbsp;
-  <a href="https://github.com/cpulxb?tab=repositories">Repositories</a> &nbsp;·&nbsp;
-  <a href="mailto:YOUR_EMAIL@example.com">Email</a>
+  <a href="https://blog.cpunull.me">
+    <img src="https://img.shields.io/badge/blog.cpunull.me-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Blog" />
+  </a>
+  <a href="https://blog.csdn.net/2301_79728896">
+    <img src="https://img.shields.io/badge/CSDN-FC5531?style=for-the-badge&logo=csdn&logoColor=white" alt="CSDN" />
+  </a>
+  <a href="mailto:YOUR_EMAIL@example.com">
+    <img src="https://img.shields.io/badge/EMAIL-A855F7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
-<!-- 占位符：YOUR_EMAIL@example.com 换成你的邮箱，或删除该链接 -->
+<!-- 占位符：YOUR_EMAIL@example.com 替换为你的邮箱，不想留邮箱就删掉这个 <a> 块 -->
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4C1D95,50:A855F7,100:F472B6&height=3&section=header" width="100%" alt="divider" />
+
+## 🧬 &nbsp;Who am I
+
+```ts
+const cpulxb = {
+  handle:   "cpulxb",                       // cpu&gpu
+  role:     "AI Full-Stack Engineer",
+  focus:    ["AI Agent Systems", "LLM Product Engineering", "End-to-End Delivery"],
+  backend:  ["Java 17", "Spring Boot", "Spring AI Alibaba", "MySQL", "Redis", "Elasticsearch"],
+  frontend: ["Vue 3", "TypeScript", "Vite", "Tailwind CSS"],
+  deploy:   ["Netlify Functions", "Netlify Blobs", "Netlify AI Gateway"],
+  goal:     "Build reliable AI products with real user value",
+  offline:  ["hard sci-fi", "Chinese IP fan fiction", "serializing a novel on my blog"],
+} as const;
+```
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F472B6,50:A855F7,100:22D3EE&height=3&section=header" width="100%" alt="divider" />
+
+## ⚡ &nbsp;Arsenal
+
+<p align="center"><b>Backend · AI Orchestration</b></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-17-7C5CFF?style=flat-square&logo=openjdk&logoColor=white" alt="Java 17" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Vue%203-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue 3" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Netlify" />
-  <img src="https://komarev.com/ghpvc/?username=cpulxb&style=flat-square&color=7C5CFF&label=views" alt="Profile views" />
+  <img src="https://skillicons.dev/icons?i=java,spring,maven,mysql,redis,elasticsearch&theme=dark&perline=6" alt="Backend stack" />
 </p>
 
-<hr />
+<p align="center"><b>Frontend · Product Surface</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vue,ts,vite,tailwind,html,css&theme=dark&perline=6" alt="Frontend stack" />
+</p>
 
-## About
+<p align="center"><b>Infra · Toolchain</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=netlify,docker,nginx,linux,git,github,rust,nodejs,idea,vscode&theme=dark&perline=10" alt="Infra and toolchain" />
+</p>
 
-我做的是「能真正交付给用户的 AI 产品」——从后端编排、模型网关，到前端 Playground 和 serverless 部署，一个人把链路跑通。
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:A855F7,100:4C1D95&height=3&section=header" width="100%" alt="divider" />
 
-| | |
-| :-- | :-- |
-| **Role** | AI Full-Stack Engineer |
-| **Focus** | AI Agent Systems / LLM Product Engineering / End-to-End Delivery |
-| **Backend** | Java 17 · Spring Boot · Spring AI Alibaba · MySQL · Redis · Elasticsearch |
-| **Frontend** | Vue 3 · TypeScript · Vite · Tailwind CSS |
-| **Deploy** | Netlify Serverless Functions · Netlify Blobs · Netlify AI Gateway |
-| **Goal** | Build reliable AI products with real user value |
-| **Writing** | [blog.cpunull.me](https://blog.cpunull.me) (NotionNext) · [CSDN](https://blog.csdn.net/2301_79728896) |
-| **Offline** | 硬科幻 · 中文 IP 同人创作 · 在博客连载小说 |
-
-<hr />
-
-## Featured Projects
+## 🚀 &nbsp;Builds
 
 <table>
-  <thead>
-    <tr>
-      <th width="50%" align="left">Mistglow 雾光</th>
-      <th width="50%" align="left">WSL Image Clipboard Helper</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td valign="top">
-        <p>
-          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-          <img src="https://img.shields.io/badge/Netlify%20AI%20Gateway-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Netlify AI Gateway" />
-          <img src="https://img.shields.io/badge/status-active-7C5CFF?style=flat-square" alt="Active" />
-        </p>
-        <p>OpenAI 兼容的图像生成 API 网关，当前投入最高的项目。</p>
-        <ul>
-          <li><code>/v1/images/generations</code> 文生图</li>
-          <li><code>/v1/images/edits</code> 图生图</li>
-          <li>Netlify Blobs 异步任务队列</li>
-          <li>单文件无框架前端 Playground</li>
-          <li>模型：gpt-image-2.5-sunburst / flare</li>
-        </ul>
-        <p><a href="https://github.com/cpulxb/Lupi-Image-Gateway">→ cpulxb/Lupi-Image-Gateway</a></p>
-      </td>
-      <td valign="top">
-        <p>
-          <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
-          <img src="https://img.shields.io/github/stars/cpulxb/WSL-Image-Clipboard-Helper?style=flat-square&label=stars&color=F59E0B" alt="Stars" />
-          <img src="https://img.shields.io/badge/release-v4.2.1-4C1D95?style=flat-square" alt="v4.2.1" />
-        </p>
-        <p>最受欢迎的开源项目，98★，持续维护到 v4.2.1。</p>
-        <ul>
-          <li>Windows 剪贴板图片落盘并转 WSL 路径</li>
-          <li>供 Claude Code / CodeX / OpenCode 读取</li>
-          <li>MobaXterm SSH 支持</li>
-          <li>SSH 远程粘贴、持久化上传</li>
-          <li>98 stars · 8 forks · issue 有人提</li>
-        </ul>
-        <p><a href="https://github.com/cpulxb/WSL-Image-Clipboard-Helper">→ cpulxb/WSL-Image-Clipboard-Helper</a></p>
-      </td>
-    </tr>
-  </tbody>
+<tr>
+<td width="50%" valign="top" align="center">
+
+### 🌫️ Mistglow 雾光
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Netlify%20AI%20Gateway-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Netlify AI Gateway" />
+</p>
+
+OpenAI 兼容图像生成 API 网关<br />
+文生图 · 图生图 · 异步任务队列<br />
+单文件零框架 Playground<br />
+gpt-image-2.5-sunburst / flare
+
+<a href="https://github.com/cpulxb/Lupi-Image-Gateway">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=cpulxb&repo=Lupi-Image-Gateway&hide_border=true&title_color=A855F7&icon_color=F472B6&text_color=C9D1D9&bg_color=0B0E14" alt="Lupi-Image-Gateway" />
+</a>
+
+</td>
+<td width="50%" valign="top" align="center">
+
+### 📋 WSL Clipboard Helper
+
+<p>
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/98%20stars-F59E0B?style=flat-square&logo=star&logoColor=white" alt="98 stars" />
+</p>
+
+剪贴板图片 → WSL 路径<br />
+喂给 Claude Code / CodeX / OpenCode<br />
+v4.2.1 · MobaXterm SSH 支持<br />
+SSH 远程粘贴 · 持久化上传
+
+<a href="https://github.com/cpulxb/WSL-Image-Clipboard-Helper">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=cpulxb&repo=WSL-Image-Clipboard-Helper&hide_border=true&title_color=A855F7&icon_color=F472B6&text_color=C9D1D9&bg_color=0B0E14" alt="WSL-Image-Clipboard-Helper" />
+</a>
+
+</td>
+</tr>
 </table>
 
-<hr />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4C1D95,50:F472B6,100:A855F7&height=3&section=header" width="100%" alt="divider" />
 
-## Stack
-
-<details open>
-<summary><b>Backend &amp; AI orchestration</b></summary>
-
-<br />
-
-<img src="https://skillicons.dev/icons?i=java,spring,maven,mysql,redis,elasticsearch&perline=6" alt="Backend stack" />
-
-`Java 17` `Spring Boot` `Spring AI Alibaba` `MySQL` `Redis` `Elasticsearch`
-
-</details>
-
-<details>
-<summary><b>Frontend &amp; product surface</b></summary>
-
-<br />
-
-<img src="https://skillicons.dev/icons?i=vue,ts,vite,tailwind,html,css&perline=6" alt="Frontend stack" />
-
-`Vue 3` `TypeScript` `Vite` `Tailwind CSS`
-
-</details>
-
-<details>
-<summary><b>Infra &amp; tooling</b></summary>
-
-<br />
-
-<img src="https://skillicons.dev/icons?i=netlify,docker,linux,git,github,rust,nodejs,idea,vscode&perline=9" alt="Infra and tooling" />
-
-`Netlify Functions` `Netlify Blobs` `Netlify AI Gateway` `Docker` `Linux` `Git` `Rust` `Node.js`
-
-</details>
-
-<hr />
-
-## GitHub
+## 📊 &nbsp;Telemetry
 
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api?username=cpulxb&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&icon_color=7C5CFF"
-    />
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=cpulxb&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=4C1D95&icon_color=7C5CFF&text_color=374151&bg_color=F5F3FF"
-      height="160" alt="cpulxb GitHub stats"
-    />
-  </picture>
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=cpulxb&layout=compact&langs_count=8&hide_border=true&theme=tokyonight"
-    />
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=cpulxb&layout=compact&langs_count=8&hide_border=true&title_color=4C1D95&text_color=374151&bg_color=F5F3FF"
-      height="160" alt="Top languages"
-    />
-  </picture>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=cpulxb&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=A855F7&icon_color=F472B6&text_color=C9D1D9&bg_color=0B0E14"
+    height="165" alt="GitHub stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=cpulxb&layout=compact&langs_count=8&hide_border=true&title_color=A855F7&text_color=C9D1D9&bg_color=0B0E14"
+    height="165" alt="Top languages"
+  />
 </p>
 
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=cpulxb&theme=tokyo-night&hide_border=true&custom_title=Activity%20%C2%B7%20Last%2031%20Days&radius=8"
-    />
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=cpulxb&custom_title=Activity%20%C2%B7%20Last%2031%20Days&bg_color=F5F3FF&color=4C1D95&title_color=4C1D95&line=7C5CFF&point=4C1D95&area=true&area_color=C4B5FD&hide_border=true&radius=8"
-      alt="Activity graph"
-    />
-  </picture>
+  <img
+    src="https://streak-stats.demolab.com/?user=cpulxb&hide_border=true&background=0B0E14&stroke=A855F7&ring=F472B6&fire=F472B6&currStreakLabel=A855F7&sideLabels=C9D1D9&dates=8B949E&sideNums=C9D1D9&currStreakNum=FFFFFF"
+    alt="GitHub streak"
+  />
 </p>
 
-<hr />
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=cpulxb&theme=darkhub&no-frame=true&no-bg=true&column=6&row=1&margin-w=10&margin-h=10"
+    alt="GitHub trophies"
+  />
+</p>
 
 <p align="center">
-  <sub><b>Build reliable AI products with real user value.</b></sub>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=cpulxb&custom_title=Contribution%20Heatline%20%C2%B7%20Last%2031%20Days&bg_color=0B0E14&color=C9D1D9&title_color=A855F7&line=A855F7&point=F472B6&area=true&area_color=4C1D95&hide_border=true&radius=10"
+    alt="Activity graph"
+  />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A855F7,50:22D3EE,100:4C1D95&height=3&section=header" width="100%" alt="divider" />
+
+## 🌌 &nbsp;Offline
+
+> 读硬科幻，写中文 IP 同人，在 [blog.cpunull.me](https://blog.cpunull.me) 上连载自己的小说。
+> 白天搭 AI 网关，晚上写宇宙。
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:F472B6,50:A855F7,100:4C1D95&height=150&section=footer&text=Thanks%20for%20scrolling&fontSize=26&fontColor=FFFFFF&fontAlignY=68&desc=cpulxb%20%C2%B7%20Building%20Real%20AI%20Products&descSize=14&descAlignY=85"
+    alt="Thanks for scrolling"
+  />
 </p>
