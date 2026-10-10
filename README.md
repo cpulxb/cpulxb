@@ -1,6 +1,7 @@
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║  方案 C · NEON IMPACT  —  cpulxb profile README               ║ -->
+<!-- ║  方案 C · NEON IMPACT  —  cpulxb profile README（修订版）     ║ -->
 <!-- ║  配色主轴：#A855F7 / #4C1D95 / #F472B6 / #22D3EE / #0B0E14    ║ -->
+<!-- ║  修订要点：移除失效组件 + 清除私有仓库信息，版式保持不变       ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
 <!-- ===== 动态 BANNER ===== -->
@@ -33,12 +34,12 @@
     <img src="https://img.shields.io/github/followers/cpulxb?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&labelColor=0B0E14&color=A855F7" alt="Followers" />
   </a>
   <a href="https://github.com/cpulxb?tab=repositories">
-    <img src="https://img.shields.io/badge/REPOS-29-4C1D95?style=for-the-badge&logo=github&logoColor=white&labelColor=0B0E14" alt="29 repos" />
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fcpulxb&query=%24.public_repos&style=for-the-badge&logo=github&logoColor=white&label=PUBLIC%20REPOS&labelColor=0B0E14&color=4C1D95" alt="Public repos" />
   </a>
   <a href="https://github.com/cpulxb?tab=stars">
-    <img src="https://img.shields.io/badge/STARRED-15-F59E0B?style=for-the-badge&logo=star&logoColor=white&labelColor=0B0E14" alt="15 starred" />
+    <img src="https://img.shields.io/badge/STARRED-16-F59E0B?style=for-the-badge&logo=star&logoColor=white&labelColor=0B0E14" alt="16 starred" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=cpulxb&style=for-the-badge&color=F472B6&label=VIEWS" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=cpulxb&style=for-the-badge&color=F472B6&label=VIEWS&labelColor=0B0E14" alt="Profile views" />
 </p>
 
 <p align="center">
@@ -53,7 +54,8 @@
   </a>
 </p>
 
-<!-- 占位符：YOUR_EMAIL@example.com 替换为你的邮箱，不想留邮箱就删掉这个 <a> 块 -->
+<!-- 占位符（保持原样未填）：把上面的 YOUR_EMAIL@example.com 换成你的真实邮箱；
+     不想公开邮箱就把上面整个 EMAIL 的 <a> 链接块删掉。 -->
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4C1D95,50:A855F7,100:F472B6&height=3&section=header" width="100%" alt="divider" />
 
@@ -99,25 +101,6 @@ const cpulxb = {
 <tr>
 <td width="50%" valign="top" align="center">
 
-### 🌫️ Mistglow 雾光
-
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Netlify%20AI%20Gateway-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Netlify AI Gateway" />
-</p>
-
-OpenAI 兼容图像生成 API 网关<br />
-文生图 · 图生图 · 异步任务队列<br />
-单文件零框架 Playground<br />
-gpt-image-2.5-sunburst / flare
-
-<a href="https://github.com/cpulxb/Lupi-Image-Gateway">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=cpulxb&repo=Lupi-Image-Gateway&hide_border=true&title_color=A855F7&icon_color=F472B6&text_color=C9D1D9&bg_color=0B0E14" alt="Lupi-Image-Gateway" />
-</a>
-
-</td>
-<td width="50%" valign="top" align="center">
-
 ### 📋 WSL Clipboard Helper
 
 <p>
@@ -135,8 +118,40 @@ SSH 远程粘贴 · 持久化上传
 </a>
 
 </td>
+<td width="50%" valign="top" align="center">
+
+### 🧰 Also on the shelf
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/5%20stars-F59E0B?style=flat-square&logo=star&logoColor=white" alt="5 stars" />
+</p>
+
+<a href="https://github.com/cpulxb/python-spider">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=cpulxb&repo=python-spider&hide_border=true&title_color=A855F7&icon_color=F472B6&text_color=C9D1D9&bg_color=0B0E14" alt="python-spider" />
+</a>
+
+<p>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/2%20stars-F59E0B?style=flat-square&logo=star&logoColor=white" alt="2 stars" />
+</p>
+
+<a href="https://github.com/cpulxb/SpringBootWebSocket">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=cpulxb&repo=SpringBootWebSocket&hide_border=true&title_color=A855F7&icon_color=F472B6&text_color=C9D1D9&bg_color=0B0E14" alt="SpringBootWebSocket" />
+</a>
+
+</td>
 </tr>
 </table>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CURRENTLY%20BUILDING-A855F7?style=for-the-badge&labelColor=0B0E14" alt="Currently building" />
+</p>
+
+<p align="center">
+  🌫️ Building OpenAI-compatible image generation gateways on Netlify serverless<br />
+  <sub>TypeScript · Netlify AI Gateway · Netlify Blobs — 暂未公开，稳定后再开源</sub>
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4C1D95,50:F472B6,100:A855F7&height=3&section=header" width="100%" alt="divider" />
 
@@ -144,7 +159,7 @@ SSH 远程粘贴 · 持久化上传
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=cpulxb&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=A855F7&icon_color=F472B6&text_color=C9D1D9&bg_color=0B0E14"
+    src="https://github-readme-stats.vercel.app/api?username=cpulxb&show_icons=true&include_all_commits=true&hide_border=true&title_color=A855F7&icon_color=F472B6&text_color=C9D1D9&bg_color=0B0E14"
     height="165" alt="GitHub stats"
   />
   <img
@@ -157,20 +172,6 @@ SSH 远程粘贴 · 持久化上传
   <img
     src="https://streak-stats.demolab.com/?user=cpulxb&hide_border=true&background=0B0E14&stroke=A855F7&ring=F472B6&fire=F472B6&currStreakLabel=A855F7&sideLabels=C9D1D9&dates=8B949E&sideNums=C9D1D9&currStreakNum=FFFFFF"
     alt="GitHub streak"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=cpulxb&theme=darkhub&no-frame=true&no-bg=true&column=6&row=1&margin-w=10&margin-h=10"
-    alt="GitHub trophies"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=cpulxb&custom_title=Contribution%20Heatline%20%C2%B7%20Last%2031%20Days&bg_color=0B0E14&color=C9D1D9&title_color=A855F7&line=A855F7&point=F472B6&area=true&area_color=4C1D95&hide_border=true&radius=10"
-    alt="Activity graph"
   />
 </p>
 
